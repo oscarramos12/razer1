@@ -1,0 +1,324 @@
+body{
+    background-color: rgb(40, 40, 40);
+}
+
+#space
+{
+    position: relative;
+    font-size: 0.8rem;
+}
+
+#laptop1
+{
+    position: absolute;
+    right: 810px;
+    top: 120px;
+    color: rgb(150, 150, 150);
+    font-size: 2.3rem;
+}
+#laptop2
+{
+    position: absolute;
+    right: 720px;
+    top: 160px;
+    color: rgb(150, 150, 150);
+    font-size: 2.3rem;
+}
+#laptop3
+{
+    position: absolute;
+    right: 815px;
+    top: 200px;
+    color: rgb(150, 150, 150);
+    font-size: 2.3rem;
+}
+
+#laptop4
+{
+    position: absolute;
+    right: 847px;
+    top: 260px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#laptop5
+{
+    position: absolute;
+    right: 836px;
+    top: 256px;
+    color: rgb(0, 255, 0);
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#forest1
+{
+    position: absolute;
+    right: 675px;
+    top: 824px;
+    color: rgb(150, 150, 150);
+    font-size: 2.5rem;
+}
+
+#forest2
+{
+    position: absolute;
+    right: 874px;
+    top: 882px;
+    color: rgb(255, 255, 255);
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+#forest3
+{
+    position: absolute;
+    right: 860px;
+    top: 880px;
+    color: rgb(0, 255, 0);
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+#audio1
+{
+    position: absolute;
+    right: 700px;
+    top: 1525px;
+    color: rgb(150, 150, 150);
+    font-size: 2.4rem;
+}
+
+#audio2
+{
+    position: absolute;
+    right: 820px;
+    top: 1565px;
+    color: rgb(150, 150, 150);
+    font-size: 2.4rem;
+}
+
+#audio3
+{
+    position: absolute;
+    right: 845px;
+    top: 1620px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#audio4
+{
+    position: absolute;
+    right: 859px;
+    top: 1645px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#audio5
+{
+    position: absolute;
+    right: 849px;
+    top: 1642px;
+    color: rgb(0, 255, 0);
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.lentes
+{
+ 
+  width: 50%;
+  float: left;
+  
+}
+.laptopN:after {
+
+    width: 50%;
+    display: table;
+    clear: both;
+}
+
+.column2
+{
+    width: 50%;
+    float: right;
+}
+.row2:after {
+    content: "";
+    width: 50%;
+    display: table;
+    clear: both;
+}
+
+.column3
+{
+    width: 50%;
+    float: left;
+}
+.row3:after {
+    display: table;
+    clear: both;
+}
+
+#imagen
+{
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    display: block;
+    margin: auto;
+    right: 1px;
+    position: relative;
+}
+
+#imagen2
+{
+    max-width: 100%;
+    height: 100%;
+    margin: auto;
+    display: block;
+    margin: auto;
+}
+
+#imagen3
+{
+    max-width: 100%;
+    height: 100%;
+    margin: auto;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+#imagen4
+{
+    max-width: 100%;
+    height: 100%;
+    margin: auto;
+    display: block;
+    margin: auto;
+}
+
+#lentes1
+{
+    position: absolute;
+    right: 1330px;
+    top: 2240px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+
+#lentes2
+{
+    position: absolute;
+    right: 1335px;
+    top: 2280px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#derecha1
+{
+    position: absolute;
+    right: 310px;
+    top: 2230px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+#derecha2
+{
+    position: absolute;
+    right: 346px;
+    top: 2260px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+#derecha3
+{
+    position: absolute;
+    right: 228px;
+    top: 2290px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+
+#derecha4
+{
+    position: absolute;
+    right: 341px;
+    top: 2335px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#laptopN1
+{
+    position: absolute;
+    right: 1177px;
+    top: 2830px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+
+#laptopN2
+{
+    position: absolute;
+    right: 1355px;
+    top: 2872px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#lumbar1
+{
+    position: absolute;
+    right: 268px;
+    top: 2820px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+#lumbar2
+{
+    position: absolute;
+    right: 329px;
+    top: 2850px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+
+#lumbar3
+{
+    position: absolute;
+    right: 380px;
+    top: 2890px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#green
+{
+    position: absolute;
+    right: 1275px;
+    top: 3405px;
+    color: rgb(150, 150, 150);
+    font-size: 1.8rem;
+}
+
+#green2
+{
+    position: absolute;
+    right: 1264px;
+    top: 3450px;
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+}
